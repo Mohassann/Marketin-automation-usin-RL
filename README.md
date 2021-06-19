@@ -5,3 +5,14 @@ In the marketing literature, learning consumers’ preferences from observed beh
 ***
 we used [VW library](https://vowpalwabbit.org/tutorials/contextual_bandit)
 
+
+## Data format
+          | Actions         | Rating (1 or 0) | Timestamp | Year | 
+| User    | Time of the day | Rating (1 or 0) | Timestamp | Year | 
+| Female  | --------------  |:---------------:| ----------|----- |
+| ------- | --------------  | --------------- | ----------|----- |
+| ------- | --------------  | --------------- | ----------|----- |
+| Male    | --------------  | --------------- | ----------|----- |
+
+
+***
