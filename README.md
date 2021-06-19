@@ -44,7 +44,7 @@ we used [VW library](https://vowpalwabbit.org/tutorials/contextual_bandit)
 | Values | 2 | 0.1 & 0.2 | 3 | Lambda 10 |
 | ------- | ------- | --------------- | ----------|----- |----- |
 
-| ------- | Time of the day  | Title 1 | Title 2 | Title 3 | Title 4 |
+| ------- | Explore-First | Epsilon-Greedy | Bagging | Softmax |
 | ------- |:-------:|:---------------:| ----------|----- |----- |
 | Values | 2 | 0.1 & 0.2 | 3 | Lambda 10 |
 
