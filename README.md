@@ -36,3 +36,12 @@ we used [VW library](https://vowpalwabbit.org/tutorials/contextual_bandit)
 2. **Epsilon-Greedy**
 3. **Bagging explorer**
 4. **Softmax Explorer**
+
+***
+## Exploration algorithms and their parameter’s values
+
+| ------- | Time of the day  | Title 1 | Title 2 | Title 3 | Title 4 |
+| ------- |:-------:|:---------------:| ----------|----- |----- |
+| ------- | ------- | --------------- | ----------|----- |----- |
+| ------- | ------- | --------------- | ----------|----- |----- |
+
