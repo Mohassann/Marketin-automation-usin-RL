@@ -27,3 +27,12 @@ we used [VW library](https://vowpalwabbit.org/tutorials/contextual_bandit)
 - **--cb_explore_adf** : The contextual bandit learning algorithm for when the set of actions changes over time or you have rich information for each action. Vowpal Wabbit offers different input formats for contextual bandits.
 
 **Note** that unlike ***--cb_explore***, we do not specify the number of actions in ***--cb_explore_adf*** as they are inferred from the number of lines in each example
+
+
+***
+
+## Exploration algorithms
+1. **Explore-First**
+2. **Epsilon-Greedy**
+3. **Bagging explorer**
+4. **Softmax Explorer**
