@@ -9,7 +9,7 @@ we used [VW library](https://vowpalwabbit.org/tutorials/contextual_bandit)
 ## Data format
 
 | User ID | Item ID | Rating (1 or 0) | Timestamp | Year | 
-| ------- |:-------:|:---------------:| ----------|----- |
+| Female |:-------:|:---------------:| ----------|----- |
 | ------- | ------- | --------------- | ----------|----- |
 | ------- | ------- | --------------- | ----------|----- |
 
