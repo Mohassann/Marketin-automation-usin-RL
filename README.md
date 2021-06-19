@@ -8,7 +8,7 @@ we used [VW library](https://vowpalwabbit.org/tutorials/contextual_bandit)
 
 ## Data format
 
-| User's Gender | Time of the day  | Title 1 | Title 2 | Title 3 | Title 4 |
+| User's Gender | Time of the day  | Title 1 | Title 2 | Title 3|
 | ------- |:-------:|:---------------:| ----------|----- |
 | ------- | ------- | --------------- | ----------|----- |
 | ------- | ------- | --------------- | ----------|----- |
