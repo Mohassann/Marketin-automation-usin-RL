@@ -15,3 +15,15 @@ we used [VW library](https://vowpalwabbit.org/tutorials/contextual_bandit)
 
 
 ***
+
+## vowpal_wabbit Command lines
+
+- **-q** :  [ --quadratic ] arg   Create and use quadratic features
+- **--quiet** : Don't output diagnostics
+- **--cb** : The contextual bandit module which allows you to optimize predictor based on already collected data, or contextual bandits without exploration.
+
+- **--cb_explore** : The contextual bandit learning algorithm for when the maximum number of actions is known ahead of time and semantics of actions stays the same across examples.
+
+- **--cb_explore_adf** : The contextual bandit learning algorithm for when the set of actions changes over time or you have rich information for each action. Vowpal Wabbit offers different input formats for contextual bandits.
+
+**Note** that unlike ***--cb_explore***, we do not specify the number of actions in ***--cb_explore_adf*** as they are inferred from the number of lines in each example
