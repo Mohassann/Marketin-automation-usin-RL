@@ -7,12 +7,11 @@ we used [VW library](https://vowpalwabbit.org/tutorials/contextual_bandit)
 
 
 ## Data format
-          | Actions         | Rating (1 or 0) | Timestamp | Year | 
-| User    | Time of the day | Rating (1 or 0) | Timestamp | Year | 
+| User    | Time of the day | Title 1 | Title 2 | Title 3 | Title 4 | 
 | Female  | --------------  |:---------------:| ----------|----- |
 | ------- | --------------  | --------------- | ----------|----- |
-| ------- | --------------  | --------------- | ----------|----- |
 | Male    | --------------  | --------------- | ----------|----- |
+| ------- | --------------  | --------------- | ----------|----- |
 
 
 ***
