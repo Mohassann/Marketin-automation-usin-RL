@@ -8,9 +8,9 @@ we used [VW library](https://vowpalwabbit.org/tutorials/contextual_bandit)
 
 ## Data format
 
-| User    | Time of the day | Title 1 | Title 2 | Title 3 | Title 4 | 
 | Female  | --------------  |---------------| ----------|----- |
 | ------- | --------------  | --------------- | ----------|----- |
+| User    | Time of the day | Title 1 | Title 2 | Title 3 | Title 4 | 
 | Male    | --------------  | --------------- | ----------|----- |
 | ------- | --------------  | --------------- | ----------|----- |
 
