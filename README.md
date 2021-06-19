@@ -8,12 +8,12 @@ we used [VW library](https://vowpalwabbit.org/tutorials/contextual_bandit)
 
 ## Data format
 
-| User ID | Item ID | Rating (1 or 0) | Timestamp | Year | 
+| User Gender | Item ID | Rating (1 or 0) | Timestamp | Year | 
 | ------- |:-------:|:---------------:| ----------|----- |
 | ------- | ------- | --------------- | ----------|----- |
 | ------- | ------- | --------------- | ----------|----- |
 
-| User Gender | Time of the day | Title 1 | Title 2 | Title 3 | Title 4 | 
+|  | Time of the day | Title 1 | Title 2 | Title 3 | Title 4 | 
 | --------  | -------------- | --------------- | ----------|----- |
 | -------- | --------------  | --------------- | ----------|----- |
 | --------   | --------------  | --------------- | ----------|----- |
