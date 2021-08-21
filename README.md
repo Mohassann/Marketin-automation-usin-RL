@@ -32,11 +32,9 @@ we used [VW library](https://vowpalwabbit.org/tutorials/contextual_bandit)
 ***
 
 ## Exploration algorithms
-1. **Explore-First**
-2. **Epsilon-Greedy**
+1.**Epsilon-Greedy**
 3. **Bagging explorer**
 4. **Softmax Explorer**
-
 ***
 ## Exploration algorithms and their parameter’s values
 
