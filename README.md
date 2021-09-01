@@ -36,8 +36,3 @@ we used [VW library](https://vowpalwabbit.org/tutorials/contextual_bandit)
 3. **Bagging explorer**
 4. **Softmax Explorer**
 ***
-## Exploration algorithms and their parameter’s values
-
-| ------- | Explore-First | Epsilon-Greedy | Bagging | Softmax |
-| ------- |:-------:|:---------------:|:----------:|:-----:|
-| Values | 2 | 0.1 & 0.2 | 3 | Lambda 10 |
